@@ -5,4 +5,4 @@ def calculate_numbers(one, two):
     :param two:
     :return:
     """
-    return one + two
+    return one + two * 100
